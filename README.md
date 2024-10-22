@@ -1,2 +1,1 @@
-# sas-or-uaf
-Complete Automated Setup
+# SAS or UAF Project
